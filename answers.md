@@ -1,4 +1,4 @@
-Answer 1:git version 2.17.1
+Answer 1:git version 2.39.2
 Answer 2: user.name=Horia
 user.email=hp347420@ohio.edu
 Answer 3: usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
